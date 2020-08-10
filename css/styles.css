@@ -1,6 +1,6 @@
 html {
     font-size: 10px;
-    background: url ('https://i.imgur.com/b9r5sEL.jpg') bottom center;
+    background: url("https://wallpaperaccess.com/full/635988.png") bottom center;
     background-size: cover;
   }
   
@@ -19,7 +19,7 @@ html {
   }
   
   .key {
-    border: .4rem solid black;
+    border: .4rem solid white;
     border-radius: .5rem;
     margin: 1rem;
     font-size: 1.5rem;
@@ -28,14 +28,14 @@ html {
     width: 10rem;
     text-align: center;
     color: white;
-    background: rgba(0,0,0,0.4);
+    background: rgba(168, 165, 165, 0.4);
     text-shadow: 0 0 .5rem black;
   }
   
   .playing {
     transform: scale(1.1);
-    border-color: #ffc600;
-    box-shadow: 0 0 1rem #ffc600;
+    border-color: #ffd0f9;
+    box-shadow: 0 0 1rem #ffd0f9;
   }
   
   kbd {
@@ -47,5 +47,5 @@ html {
     font-size: 1.2rem;
     text-transform: uppercase;
     letter-spacing: .1rem;
-    color: #ffc600;
+    color: #ffac5e;
   }
